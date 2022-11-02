@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/fsociety-team/fsociety/main/images/fsociety.png" width="600px" alt="fsociety-team/fsociety" />
 </p>
 
-# fsociety
+# FSOCIETY
 
 [![PyPI](https://img.shields.io/pypi/v/fsociety?color=orange&logo=pypi&logoColor=orange&style=flat-square)](https://pypi.org/project/fsociety/)
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue?logo=python&style=flat-square)](https://www.python.org/downloads/)
